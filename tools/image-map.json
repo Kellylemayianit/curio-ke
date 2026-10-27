@@ -1,0 +1,282 @@
+{
+ "products": {
+  "lion-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.31 PM (1).jpeg",
+   "fx": 0.72,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "lion-2": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.31 PM.jpeg",
+   "fx": 0.35,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "lion-3": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.29 PM (1).jpeg",
+   "fx": 0.3,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "bigcats": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.29 PM (1).jpeg",
+   "fx": 0.45,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "zebras-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.02.32 PM.jpeg",
+   "fx": 0.55,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "zebras-2": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.27 PM (3).jpeg",
+   "fx": 0.4,
+   "fy": 0.65,
+   "zoom": 1.0
+  },
+  "giraffes-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.57 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "giraffes-2": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.56 PM (2).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "headsets": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.25 PM (3).jpeg",
+   "fx": 0.55,
+   "fy": 0.6,
+   "zoom": 1.0
+  },
+  "busts": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.26 PM (1).jpeg",
+   "fx": 0.45,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "warriors": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.25 PM.jpeg",
+   "fx": 0.35,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "bowls": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.27 PM (2).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "frames": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.25 PM (2).jpeg",
+   "fx": 0.45,
+   "fy": 0.6,
+   "zoom": 1.0
+  },
+  "cuff-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.22 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "cuff-2": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.24 PM (2).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "strands-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.35 PM (1).jpeg",
+   "fx": 0.45,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "strands-2": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.35 PM.jpeg",
+   "fx": 0.45,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "collars": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.36 PM.jpeg",
+   "fx": 0.4,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "statement": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.36 PM (1).jpeg",
+   "fx": 0.55,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "earrings": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.37 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "bracelets": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.24 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "giraffe-beads": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.34 PM.jpeg",
+   "fx": 0.55,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "hat": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.33 PM.jpeg",
+   "fx": 0.4,
+   "fy": 0.4,
+   "zoom": 1.0
+  },
+  "jersey-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.44 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "jersey-2": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.43 PM (2).jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "jersey-3": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.44 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "tee-white-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.43 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "tee-grey": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.43 PM.jpeg",
+   "fx": 0.45,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "dashiki": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.53 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "shirt-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.55 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "shirt-2": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.55 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "shirt-lion": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.55 PM (2).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "kitenge": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.42 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "bags-1": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.41 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "bags-2": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.41 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "map": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.39 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "elephant-art": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.38 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "woman-art": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.39 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "calabash-art": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.42 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "panels": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.39 PM (2).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "mirrors": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.26 PM.jpeg",
+   "fx": 0.55,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "candle": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.32 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "zoom": 1.0
+  },
+  "wire": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.34 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "gourds": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.28 PM (1).jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "zoom": 1.0
+  },
+  "magnets": {
+   "src": "WhatsApp Image 2026-10-26 at 2.03.37 PM (2).jpeg",
+   "fx": 0.5,
+   "fy": 0.4,
+   "zoom": 1.0
+  }
+ },
+ "site": {
+  "hero": {
+   "src": "WhatsApp Image 2026-10-26 at 2.02.32 PM.jpeg",
+   "fx": 0.5,
+   "fy": 0.55,
+   "ratio": "16:9"
+  }
+ }
+}

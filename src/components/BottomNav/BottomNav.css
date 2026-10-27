@@ -1,0 +1,5 @@
+.bottomnav{display:none}
+@media(max-width:900px){
+  .bottomnav{position:fixed;left:0;right:0;bottom:0;z-index:30;background:var(--dark);color:var(--on-dark);display:grid;grid-template-columns:repeat(4,1fr);padding:8px 0 max(8px,env(safe-area-inset-bottom))}
+  .bottomnav .navlink{flex-direction:column;gap:4px;font-size:11px;letter-spacing:.06em;justify-content:center;border-radius:var(--radius-sm);margin:0 4px}
+}

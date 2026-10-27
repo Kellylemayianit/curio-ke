@@ -1,0 +1,39 @@
+/* Design tokens, taken from the CURIO mockups. Change a colour here, change it everywhere. */
+@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:500;font-display:swap;src:url(../../public/fonts/cormorant-garamond-latin-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:600;font-display:swap;src:url(../../public/fonts/cormorant-garamond-latin-600-normal.woff2) format('woff2')}
+@font-face{font-family:'Cormorant Garamond';font-style:italic;font-weight:500;font-display:swap;src:url(../../public/fonts/cormorant-garamond-latin-500-italic.woff2) format('woff2')}
+@font-face{font-family:'Cormorant Garamond';font-style:italic;font-weight:600;font-display:swap;src:url(../../public/fonts/cormorant-garamond-latin-600-italic.woff2) format('woff2')}
+@font-face{font-family:'Jost';font-style:normal;font-weight:300;font-display:swap;src:url(../../public/fonts/jost-latin-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Jost';font-style:normal;font-weight:400;font-display:swap;src:url(../../public/fonts/jost-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Jost';font-style:normal;font-weight:500;font-display:swap;src:url(../../public/fonts/jost-latin-500-normal.woff2) format('woff2')}
+
+:root{
+  --bg:#f6f1e8;
+  --ink:#261c14;
+  --ink-soft:#6f6458;
+  --card:#fffdf8;
+  --line:#ddd2bf;
+  --line-soft:#e6dccb;
+  --dark:#231a13;
+  --dark-hover:#34271d;
+  --dark-on:#3b2d21;
+  --dark-line:#4a3a2c;
+  --on-dark:#efe6d6;
+  --on-dark-soft:#b8aa95;
+  --gold:#e3c27d;
+  --red:#8f2a1e;
+  --olive:#4d5a2a;
+  --cream:#f6f1e8;
+
+  --font-display:'Cormorant Garamond',Georgia,serif;
+  --font-body:'Jost',system-ui,-apple-system,'Segoe UI',sans-serif;
+
+  --gutter:40px;
+  --sidebar:264px;
+  --radius-lg:20px;
+  --radius-md:16px;
+  --radius-sm:10px;
+  --pill:999px;
+  --ease:cubic-bezier(.2,.7,.2,1);
+}
+@media(max-width:900px){:root{--gutter:20px}}

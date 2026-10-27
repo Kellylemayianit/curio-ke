@@ -1,0 +1,16 @@
+{
+  "name": "curio-shop",
+  "version": "1.0.0",
+  "description": "Curio: a Kenyan cultural antiques shop. Component architecture in plain HTML, CSS and vanilla JS.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node tools/serve.mjs . 5173",
+    "build": "node tools/build.mjs",
+    "preview": "node tools/serve.mjs dist 4173",
+    "images": "python3 tools/build-images.py"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}

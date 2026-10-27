@@ -1,0 +1,9 @@
+{
+  "name": "Curio · Kenyan cultural antiques",
+  "short_name": "Curio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#231a13",
+  "icons": [{ "src": "public/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

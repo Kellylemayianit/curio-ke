@@ -1,0 +1,9 @@
+.chips{display:flex;gap:12px;flex-wrap:wrap;margin:8px 0 32px}
+.chip{border:1px solid var(--line);background:var(--card);border-radius:var(--pill);padding:0 20px;min-height:44px;display:inline-flex;align-items:center;font-size:13px;letter-spacing:.1em;text-transform:uppercase;white-space:nowrap;transition:background .2s,color .2s}
+.chip:hover{background:#fff}
+.chip.is-on{background:var(--dark);color:var(--cream);border-color:var(--dark)}
+@media(max-width:900px){
+  .chips{margin-bottom:20px}
+  .chips--scroll{flex-wrap:nowrap;overflow-x:auto;margin-inline:calc(var(--gutter) * -1);padding:0 var(--gutter) 4px;scrollbar-width:none}
+  .chips--scroll::-webkit-scrollbar{display:none}
+}

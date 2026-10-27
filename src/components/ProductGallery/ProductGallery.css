@@ -1,0 +1,7 @@
+.gallery__big{border-radius:var(--radius-lg);overflow:hidden;aspect-ratio:4/5;background:var(--line-soft)}
+.gallery__big img{height:100%}
+.gallery__thumbs{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:12px}
+.gallery__thumb{padding:0;border:2px solid transparent;border-radius:12px;overflow:hidden;aspect-ratio:1;background:var(--line-soft);transition:border-color .2s,opacity .2s;opacity:.8}
+.gallery__thumb:hover{opacity:1}
+.gallery__thumb.is-on{border-color:var(--red);opacity:1}
+.gallery__thumb img{height:100%}

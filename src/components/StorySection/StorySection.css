@@ -1,0 +1,6 @@
+.story{background:var(--card);border:1px solid var(--line-soft);border-radius:var(--radius-lg);display:grid;grid-template-columns:1fr 1fr;overflow:hidden}
+.story img{height:100%;min-height:420px;max-height:560px}
+.story__tx{padding:56px;align-self:center}
+.story h2{font-size:44px;margin-bottom:20px;line-height:1.08}
+.story__tx>p:not(.kicker){line-height:1.8;color:var(--ink-soft);font-size:17px;margin:0 0 28px}
+@media(max-width:900px){.story{grid-template-columns:1fr}.story img{order:-1;min-height:280px;max-height:340px}.story__tx{padding:28px 24px}.story h2{font-size:34px}}

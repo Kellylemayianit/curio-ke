@@ -1,0 +1,2 @@
+.footer{margin-top:64px;padding-top:32px;border-top:1px solid var(--line);display:flex;justify-content:space-between;color:var(--ink-soft);font-size:13px;letter-spacing:.1em;text-transform:uppercase;flex-wrap:wrap;gap:16px}
+@media(max-width:900px){.footer{margin-top:40px;font-size:12px}}
